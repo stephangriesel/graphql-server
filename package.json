@@ -1,0 +1,25 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "GraphQL Server",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephangriesel/graphql-server.git"
+  },
+  "author": "Stephan Griesel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephangriesel/graphql-server/issues"
+  },
+  "homepage": "https://github.com/stephangriesel/graphql-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "nodemon": "^1.18.6"
+  }
+}
