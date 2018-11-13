@@ -1,0 +1,29 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Frikkie Bas",
+      "email": "frik@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Koos Wortel",
+      "email": "wortelluva@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Jan Kan",
+      "email": "janniekannie@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Piet Peester",
+      "email": "peestermeester@gmail.com"
+    }
+  ]
+}
